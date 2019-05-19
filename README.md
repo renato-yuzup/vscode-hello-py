@@ -1,6 +1,8 @@
 # Hello World Python Web App
 This is my first app developing in Python and Flask. Aiding in this journey there is also Visual Studio Code.
 
+This project is based on MS tutorial available [here](https://code.visualstudio.com/docs/python/tutorial-flask).
+
 ## How to run
 Download source code and run the following commands from the project root folder:
 
